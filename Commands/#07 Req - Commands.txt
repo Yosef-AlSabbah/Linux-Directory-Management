@@ -1,0 +1,3 @@
+root@ItzNOOB:/home/OS/Lab1# cd Customer && ls
+Cust1.txt  Cust2.txt  Cust3.txt
+root@ItzNOOB:/home/OS/Lab1/Customer#

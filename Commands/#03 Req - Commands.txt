@@ -1,0 +1,19 @@
+root@ItzNOOB:/home/OS/Lab1# mv Finance/* Customer
+root@ItzNOOB:/home/OS/Lab1# ls -R
+.:
+Archive  Customer  Finance  Public
+
+./Archive:
+
+./Customer:
+Cust1.txt  Cust2.txt  Cust3.txt
+
+./Finance:
+
+./Public:
+Forms  Info
+
+./Public/Forms:
+
+./Public/Info:
+Leave.txt

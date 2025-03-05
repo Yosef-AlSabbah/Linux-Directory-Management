@@ -1,0 +1,20 @@
+root@ItzNOOB:/home/OS/Lab1# mv Public/Info/Leave.txt Archive/leave_old.txt
+root@ItzNOOB:/home/OS/Lab1# ls -R
+.:
+Archive  Customer  Finance  Public
+
+./Archive:
+Cust1.txt  Cust2.txt  Cust3.txt  leave_old.txt
+
+./Customer:
+Cust1.txt  Cust2.txt  Cust3.txt
+
+./Finance:
+
+./Public:
+Forms  Info
+
+./Public/Forms:
+
+./Public/Info:
+root@ItzNOOB:/home/OS/Lab1#

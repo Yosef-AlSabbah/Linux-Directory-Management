@@ -1,0 +1,6 @@
+root@ItzNOOB:/home/OS/Lab1/Customer# cd ../ && cat {Archive,Public/Forms}/*.txt
+Dear Instructor, I promise I didn’t use ChatGPT for this... or did I? 😏
+I worked so hard, even my laptop cried. Please reward me with a 100%! 🥺
+If I don’t get 100%, my pet rock will be very disappointed. 🪨
+P.S. I’ll name my firstborn after you if you give me full marks. Deal? 🤝
+root@ItzNOOB:/home/OS/Lab1#

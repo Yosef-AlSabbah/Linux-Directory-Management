@@ -1,0 +1,24 @@
+root@ItzNOOB:/home# mkdir -p OS/Lab1/{Finance,Customer,Public/{Forms,Info},Archive} && \
+> cd OS/Lab1 && \
+> touch Finance/{Cust1.txt,Cust2.txt,Cust3.txt} \
+>       Public/Info/Leave.txt
+root@ItzNOOB:/home/OS/Lab1# ls -r
+Public  Finance  Customer  Archive
+root@ItzNOOB:/home/OS/Lab1# ls -R
+.:
+Archive  Customer  Finance  Public
+
+./Archive:
+
+./Customer:
+
+./Finance:
+Cust1.txt  Cust2.txt  Cust3.txt
+
+./Public:
+Forms  Info
+
+./Public/Forms:
+
+./Public/Info:
+Leave.txt

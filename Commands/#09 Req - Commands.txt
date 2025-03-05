@@ -1,0 +1,4 @@
+root@ItzNOOB:/home/OS/Lab1/Archive# cd ../Customer/ && rm *
+root@ItzNOOB:/home/OS/Lab1/Customer# ls -R
+.:
+root@ItzNOOB:/home/OS/Lab1/Customer#

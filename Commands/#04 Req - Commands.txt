@@ -1,0 +1,21 @@
+root@ItzNOOB:/home/OS/Lab1# cp Customer/* Archive
+root@ItzNOOB:/home/OS/Lab1# ls -R
+.:
+Archive  Customer  Finance  Public
+
+./Archive:
+Cust1.txt  Cust2.txt  Cust3.txt
+
+./Customer:
+Cust1.txt  Cust2.txt  Cust3.txt
+
+./Finance:
+
+./Public:
+Forms  Info
+
+./Public/Forms:
+
+./Public/Info:
+Leave.txt
+root@ItzNOOB:/home/OS/Lab1#
